@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RubeGoldbergMachineHelpv4.data.unityweb",
+"asmCodeUrl": "RubeGoldbergMachineHelpv4.asm.code.unityweb",
+"asmMemoryUrl": "RubeGoldbergMachineHelpv4.asm.memory.unityweb",
+"asmFrameworkUrl": "RubeGoldbergMachineHelpv4.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
